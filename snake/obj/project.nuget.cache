@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ta/wBP9Ldo0=",
+  "success": true,
+  "projectFilePath": "/Users/benjamindennis/RiderProjects/snake/snake/snake.csproj",
+  "expectedPackageFiles": [
+    "/Users/benjamindennis/.nuget/packages/raylib-cs/4.5.0.2/raylib-cs.4.5.0.2.nupkg.sha512",
+    "/Users/benjamindennis/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
